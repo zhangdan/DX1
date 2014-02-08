@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0DB51D5A-A649-4283-AB9F-66F64AA2F1C6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>X1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>08C55B49-E769-4A0B-AC1E-B6E9BA3BD11B</key>
+		<string>http://svn.sogou-inc.com/svn/userplatform/mobile/ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/X1/X1.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>08C55B49-E769-4A0B-AC1E-B6E9BA3BD11B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>08C55B49-E769-4A0B-AC1E-B6E9BA3BD11B</key>
+		<string>http://svn.sogou-inc.com/svn/userplatform</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://svn.sogou-inc.com/svn/userplatform/mobile/ios/trunk/X1/X1.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>08C55B49-E769-4A0B-AC1E-B6E9BA3BD11B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>mobile/ios/branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>mobile/ios/tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>mobile/ios/trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08C55B49-E769-4A0B-AC1E-B6E9BA3BD11B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>code</string>
+		</dict>
+	</array>
+</dict>
+</plist>
